@@ -1,13 +1,19 @@
-Hey I am Frank Tumminello curent Electrical Engineering student @ Drexel Univeristy\n
-Currently working on three projects...\n
-1.) Autonomous greenhose controlled by Apple IOS Application running on Ubuntu Server OS\n
+Hey I am Frank Tumminello curent Electrical Engineering student @ Drexel Univeristy
+
+Currently working on three projects...
+
+1.) Autonomous greenhose controlled by Apple IOS Application running on Ubuntu Server OS
+
 2.) Stock trading sentiment predicter using ML (bayes naive classifier)
+
 3.) NFTyskins NFT project
 
 Interested in collaborating/networking?
 
 Contact me!
+
 email: frankietumminello@gmail.com
+
 phone: (443)-823-0962
 
 <!---
