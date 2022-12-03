@@ -12,9 +12,7 @@ Interested in collaborating/networking?
 
 Contact me!
 
-email: frankietumminello@gmail.com
-
-phone: (443)-823-0962
+email: ftdrummerboy@gmail.com
 
 <!---
 ftumminello/ftumminello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
