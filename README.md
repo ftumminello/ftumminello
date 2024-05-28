@@ -1,18 +1,6 @@
-Hey I am Frank Tumminello curent Electrical Engineering student @ Drexel Univeristy
+Hey I am Frank Tumminello, currently working on my startup beernerd.app. It's a web application to keep statistics for you beer games, bar crawls, scavenger hunts and more.
 
-Currently working on three projects...
-
-1.) Autonomous greenhose controlled by Apple IOS Application running on Ubuntu Server OS
-
-2.) Stock trading sentiment predicter using ML (bayes naive classifier)
-
-3.) NFTyskins NFT project
-
-Interested in collaborating/networking?
-
-Contact me!
-
-email: ftdrummerboy@gmail.com
+Feel free to reach out!
 
 <!---
 ftumminello/ftumminello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
